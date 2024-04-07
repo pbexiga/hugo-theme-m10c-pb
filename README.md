@@ -36,7 +36,7 @@ $ git clone https://github.com/vaga/hugo-theme-m10c-pb.git themes/m10c-pb
 
 Add this line  in the `config.toml` file:
 ```toml
-theme = "m10c"
+theme = "m10c-pb"
 ```
 
 ### Configuration
